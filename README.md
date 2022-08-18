@@ -367,4 +367,5 @@ Mantilla Quijano, G., & González, H. (1977). Ley de Ohm (aplicación).
 
 7. RUBRICA
 
-![Rubrica](https://user-images.githubusercontent.com/105675013/179806921-f5d44d27-062e-4a50-9485-9ad475954c45.jpg
+![Rubrica](https://user-images.githubusercontent.com/105675013/185282156-51973266-50aa-484a-9899-7496f9286808.jpg)
+
